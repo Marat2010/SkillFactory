@@ -5,6 +5,7 @@ __pycache__/
 *.pyc
 requirements_*.txt
 my_*
+My_*
 My_temp/
 downloads
 
